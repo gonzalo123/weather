@@ -231,5 +231,8 @@ From openweathermap I will obtain:
 
 I run this script with the Rasberry Pi crontab each 5 minutes. That means that I've got a fancy time series ready to be shown with grafana
 
+Here we can see the dashboard
+![Dashboard](img/dashboard.png "Dashboard")
+
 
  
